@@ -1,0 +1,57 @@
+h1 {text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    font-size: 40px;
+}
+
+.center {
+    margin: auto;
+    margin-left: 25px;
+}
+
+body {
+    margin: 8px;
+    background-image: url("zrna.webp");
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    display: block;
+}
+
+table {
+    width: 100%;
+}
+
+.slikica {
+    display: block;
+    margin: auto;
+    margin-top: -15px;
+}
+
+
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+
+.about {
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
